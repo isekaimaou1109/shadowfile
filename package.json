@@ -1,0 +1,27 @@
+{
+  "name": "hide-file",
+  "version": "1.0.0",
+  "description": "This module will help you hide your file",
+  "main": "index.js",
+  "dependencies": {
+    "@types/node": "^16.11.12",
+    "python-shell": "^3.0.1"
+  },
+  "scripts": {
+    "start": "tsc src/index.ts --outDir ./build"
+  },
+  "keywords": ["hidefile", "shadowfile", "darknessfile"],
+  "author": "yoki-sama",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.5.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isekaimaou1109/shadowfile.git"
+  },
+  "bugs": {
+    "url": "https://github.com/isekaimaou1109/shadowfile.git/issues"
+  },
+  "homepage": "https://github.com/isekaimaou1109/shadowfile.git#readme"
+}
